@@ -1,0 +1,10 @@
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/BurntSushi/xdg v0.0.0-20130804141135-e80d3446fea1
+github.com/BurntSushi/xdg
+# github.com/jkeiser/iter v0.0.0-20140714165249-67b94d6149c6
+github.com/jkeiser/iter
+# github.com/jochenvg/go-udev v0.0.0-20171110120927-d6b62d56d37b
+github.com/jochenvg/go-udev
+# golang.org/x/sys v0.0.0-20190228124157-a34e9553db1e
+golang.org/x/sys/unix
